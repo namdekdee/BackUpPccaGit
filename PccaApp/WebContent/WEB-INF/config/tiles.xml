@@ -70,6 +70,9 @@
 	<definition name="pcAddCredit" extends="base.definition">
 		<put-attribute name="body" value="/WEB-INF/views/pc/pcAddCredit.jsp"></put-attribute>
 	</definition>
+	<definition name="pcRequest" extends="base.definition">
+		<put-attribute name="body" value="/WEB-INF/views/pc/pcRequest.jsp"></put-attribute>
+	</definition>
 	<definition name="test" extends="base.definition">
 		<put-attribute name="body" value="/WEB-INF/views/ca/test.jsp"></put-attribute>
 	</definition>

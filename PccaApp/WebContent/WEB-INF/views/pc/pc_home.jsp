@@ -46,8 +46,8 @@
 	<br>
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3">
-			<a href="" class="btn btn-success btn-lg btn-block" role="button"
-				aria-pressed="true">ตั้ง/เพิ่มวงเงิน</a>
+			<div onclick="window.location='pcAddCredit'" class="btn btn-success btn-lg btn-block" role="button"
+				aria-pressed="true">ตั้ง/เพิ่มวงเงิน</div>
 		</div>
 	</div>
 	<br>
